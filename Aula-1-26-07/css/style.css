@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;1,700&display=swap');
+
+h1 {
+    color: rgb(45, 99, 180);
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+h2 {
+    color: darkblue;
+    font-size: 35px;
+}
+
+p {
+    color: #9d0208;
+    font-size: 20px;
+    font-family: 'Open Sans', sans-serif;
+}
